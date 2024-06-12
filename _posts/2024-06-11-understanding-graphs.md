@@ -13,6 +13,8 @@ tags:
 ---
 Have you ever wondered how Google seemingly knows exactly what you're searching for, or how social media platforms recommend friends and content that are uncannily relevant to you? The secret lies in the power of graphs. By the end of this article, you’ll have a clear understanding of what graphs are, how they work, and how they’re utilized by major websites like Google and your favorite social media platforms.
 
+{% include toc %}
+
 # What is a Graph? Nodes and Edges Explained
 
 A graph, in its simplest form, is a way to represent data. Imagine a network of points (called nodes) connected by lines (called edges). Each node represents an entity, such as a person or a web page, and each edge represents a relationship or connection between these entities. This visual representation allows us to see complex data in a manageable way.
