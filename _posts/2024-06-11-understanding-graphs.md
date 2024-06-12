@@ -3,6 +3,7 @@ title: 'Understanding Graphs: How Your Favorite Websites Use Them to Enhance You
 date: 2024-06-11
 permalink: /posts/2024/06/understanding-graphs/
 toc: true
+toc_sticky: true
 tags:
   - graph network
   - social graph
@@ -12,8 +13,6 @@ tags:
   - explainer
 ---
 Have you ever wondered how Google seemingly knows exactly what you're searching for, or how social media platforms recommend friends and content that are uncannily relevant to you? The secret lies in the power of graphs. By the end of this article, you’ll have a clear understanding of what graphs are, how they work, and how they’re utilized by major websites like Google and your favorite social media platforms.
-
-{% include toc %}
 
 # What is a Graph? Nodes and Edges Explained
 
