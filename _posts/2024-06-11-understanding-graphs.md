@@ -38,7 +38,7 @@ Graphs are exceptionally useful for representing complex data in a structured wa
 # Knowledge Graph: Google’s Secret Weapon
 Knowledge graphs can be used for a large number of tasks — be it for logical reasoning, explainable recommendations, complex analysis or just being a better way to store information.
 
-{% include video id="mmQl6VGvX" provider="youtube" %}
+#{% include video id="mmQl6VGvX" provider="youtube" %}
 
 Google uses a type of graph called a knowledge graph to enhance its search capabilities. The knowledge graph connects information about people, places, and things, making search results more relevant and informative. For example, searching for "Leonardo da Vinci" doesn't just show links but also displays a panel with related facts, such as his artworks, biography, and connections to other historical figures. Nodes here might include "Leonardo da Vinci," "Mona Lisa," and "The Last Supper," with edges representing relationships like "painted by."
 
